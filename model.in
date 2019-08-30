@@ -1,0 +1,7 @@
+nunm_treads/cores list (1, 2, 4, 8, 16, ...., p) MAX = 4096
+time 1 proc (Serial)
+time 2 proc (Parallel)
+time 4 proc (Parallel)
+time 8 proc (Parallel)
+....
+time p proc (Parallel)
